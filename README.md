@@ -8,7 +8,7 @@ without re-saving it as a new file type.  But I've included all the versions I c
 convenience.
 
 Getting Started:
-- Download the repository as a .zip file by clicking "Download zip" over on the right of this page --->
+- Download the repository as a .zip file by clicking "Download ZIP" over on the right of this page --->
 - Extract all the files.  Pick the format you want (e.g., 2000, 2002-03, 2010) and open it.
 - Open the MAIN DATA ENTRY FORM.
 - Embiggen. Enter data. Enjoy working with something more user-friendly and powerful than Excel!
