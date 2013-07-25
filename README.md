@@ -7,6 +7,7 @@ musculoskeletal markers of stress.  I find that this opens fine in the latest it
 without re-saving it as a new file type.
 
 Getting Started:
+- Download the repository as a .zip file by clicking "Download zip" over on the right --->
 - Open the MAIN DATA ENTRY FORM.
 - Embiggen.
 - Enter data.
