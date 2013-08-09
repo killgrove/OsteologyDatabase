@@ -22,3 +22,5 @@ magically calculate (e.g., fusion scores for cranial vault).
 For a more thorough but less flexible database that uses Standards, try the freeware program Osteoware from 
 the Smithsonian.
 
+I'm posting this with a CC BY-NC-SA license (Creative Commons Attribution-NonCommercial-ShareAlike). I'd 
+appreciate an attribution if you use/reuse these for your (non-profit) research.
